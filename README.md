@@ -19,6 +19,12 @@ This repository is the template for creating cross platform GUI.
   - Mac: There is a [homebrew installation available](https://formulae.brew.sh/formula/wxmac).
   - Installation instructions can be found [here](https://wiki.wxwidgets.org/Install). Some version numbers may need to be changed in instructions to install v3.0 or greater.
 
+## Setup CMake
+
+1. Install C/C++ extension for VS Code. [here](https://code.visualstudio.com/docs/cpp/config-mingw)
+2. Install CMake Tools [CMake Tools](https://code.visualstudio.com/docs/cpp/CMake-linux)
+3. Indicate CMakeLists when vscode ask for it.
+
 ## Basic Build Instructions
 
 1. Clone this repo.
